@@ -64,6 +64,17 @@ _File > Project xx > Project Interpreter > Select the "+" on the right top side 
 Should work without any errors. Do the same for _tflearn, numpy and pandas_.
 
 
+### Alternative: Running Jupyter Notebook in the cloud
+
+If you want to skip local installation, use cocalc.com
+sign-up with GitHub/Google
+1) create new project
+2) choose JupyterNotebook as type
+3) go to "Kernel" menu, and choose Python 3 (Anaconda)
+
+Now you have an IpythonPython Notebook with _tensorflow_ installed and running in the cloud.
+
+
 
 
 
