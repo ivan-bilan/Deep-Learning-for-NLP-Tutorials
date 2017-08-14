@@ -1,8 +1,6 @@
 # Installation Guide
 ## Use Python 3.5 or higher
 
-To save time on Thursday consider preparing the environment before the class starts. You can remotely connect to the university PC with your "Remote Desktop" manager of choice and connect to ```remote.cip.ifi.lmu.de``` and then log-in as usual.
-
 ### Step 1, clone the GitHub project
 Go to https://github.com/ivan-bilan/Tensorflow-for-NLP-Tutorials
 Press: _"Clone and Download"_
@@ -73,15 +71,3 @@ sign-up with GitHub/Google
 3) go to "Kernel" menu, and choose Python 3 (Anaconda)
 
 Now you have an IpythonPython Notebook with _tensorflow_ installed and running in the cloud.
-
-
-
-
-
-
-
-
-
-
-    
-
